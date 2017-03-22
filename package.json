@@ -6,11 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sack-JS-Team/sack.js.git"
+  },
   "keywords": [
     "sack",
     "node",
     "library",
     "legendary"
   ],
-  "author": "Sack JS Team"
+  "author": "Sack JS Team",
+  "bugs": {
+    "url": "https://github.com/Sack-JS-Team/sack.js/issues"
+  }
 }
