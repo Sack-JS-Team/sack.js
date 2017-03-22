@@ -12,9 +12,9 @@ Just use
 ```javascript 
 require("sack.js"); 
 ```
+you can also store it in a Variable, but you wont see anything if you log it, its MAGIC :unicorn: :tada: :tada:
 
 ## Tests
 ```shell
 npm test
 ```
-you can also store it in a Variable, but you wont see anything if you log it, its MAGIC :unicorn: :tada: :tada:
