@@ -1,0 +1,16 @@
+{
+  "name": "sack.js",
+  "version": "1.0.0",
+  "description": "The Legendary Node Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sack",
+    "node",
+    "library",
+    "legendary"
+  ],
+  "author": "Sack JS Team"
+}
