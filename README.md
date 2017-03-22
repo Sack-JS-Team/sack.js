@@ -5,6 +5,10 @@ Sack.js is the legendary Node Framework, every Projekt gets better, just by usin
 
 ## Installing
 ```shell
+npm install sack.js
+```
+or
+```shell
 npm install git+https://github.com/Sack-JS-Team/sack.js.git
 ```
 ## Usage
