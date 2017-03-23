@@ -1,8 +1,9 @@
 /*
  * Sack.JS
- * A collaborative project from 3 weird dudes
+ * A collaborative project from 3 legendary dudes
  */
 
+// Hello, I'm a legend :D		
 module.exports = {
     me: () => require("."),
     you: (name) => name,
