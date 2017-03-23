@@ -14,9 +14,9 @@ npm install git+https://github.com/Sack-JS-Team/sack.js.git
 ## Usage
 Just use 
 ```javascript 
-require("sack.js"); 
+require("sack.js");
 ```
-you can also store it in a Variable, but you wont see anything if you log it, its MAGIC :unicorn: :tada: :tada:
+you can also store it in a Variable :D :unicorn: :tada: :tada: :unicorn:
 
 ## Tests
 ```shell
